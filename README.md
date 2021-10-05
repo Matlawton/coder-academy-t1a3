@@ -12,7 +12,7 @@ Click here to view my GitHub Repository - <https://github.com/Matlawton/coder-ac
 
 ## R5 & R7 - Purpose, Scope & Error Handling
 
-## - *Description - What is Bone Death Skateboard Academy?
+## - *Description* - What is Bone Death Skateboard Academy?
 
 My terminal app is an MVP booking system for users to interact with and potentially create, view and delete a booking, view camp stats and more at the Bone Death Skateboard Academy. I created a fictional story, use case and then created an issue within this concept to solve.
 
@@ -89,7 +89,7 @@ The user will be prompted to enter the booking reference number of the booking t
 
 **19** - If the end user at any time selects 'exit' from the menu then the program will be terminated.
 
-## R6 - Features
+## R6 & R7 - Features & Error Handling Continued
 
 - main.rb is the main file that controls the program
 
@@ -145,8 +145,9 @@ You also need to have the 'Bundler' gem installed on your PC. It comes with the 
 
 gem install bundler
 
-Once you have done the above, you can either clone or fork this repository onto to your local machine(your PC).
+Once you have done the above, you can either clone or fork this repository onto your local machine(your PC).
 To install the required gems I am using for this app, make your way to the /src folder in the repostitory on your computer, and use the command:
+
 bundle install
 
 Furthermore, you can view the gems I am using by opening the 'Gemfile' located in the /src folder
