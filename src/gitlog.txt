@@ -1,0 +1,127 @@
+mlawton@Mats-LT:/mnt/c/Users/61418/Desktop/Coder Academy/T1A3$ git log
+
+commit 4121408f8f3bf93db11317d8dd1c7827b30993e4 
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Tue Oct 5 
+    "Initial creation and push to remote repository"
+	
+
+commit ba8eadf0123e95b4f41c77ad12a2e0862d56f5ef (HEAD -> master)
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Tue Oct 5 13:20:25 2021 +0800
+
+    "Final stages of commits and preparation for git log"
+
+commit 0bf8421104313403095777ac801dce2868558d10
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Tue Oct 5 11:51:05 2021 +0800
+
+    Updates to R4, R5, R7 and R9
+
+commit 529075e455322e054b3fe43307da53c2ca9fc1a5
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 18:53:27 2021 +0800
+
+    Additions of images, markdown and content to the README.md file
+
+commit 311ee45c41c228564fda07c73e14abdc76217055
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 16:44:55 2021 +0800
+
+    Creation of extras_archives folder and files that are currently not being implimented into the program
+
+commit 39748b12aa668b5b14a79fcad1d1b5f89486040c
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 16:42:53 2021 +0800
+
+    Final version of camp_stats.rb and titles.rb files - cleaned syntax
+
+commit e080542e508edd0511744d23b0f714d97d7038cc
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 16:28:13 2021 +0800
+
+    Final version of main.rb file - cleaned syntax
+
+commit b41e54bfe93281035f97c547c18929289db2aec4
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 13:23:32 2021 +0800
+
+    Successful creation of delete booking method
+
+commit 64dbb56e014689bbc2178d9cafda9f3d53598758
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 10:54:34 2021 +0800
+
+    Refactor of main.rb file
+
+commit f4fbdfa146273ccdefafe6a850a5d857d188ee7a
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 10:54:13 2021 +0800
+
+    Created new titles in the titles.rb file
+
+commit 689d9cff0f71e57c17b8c68e7f8fdc1431c5331c
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Mon Oct 4 10:53:48 2021 +0800
+
+    Further creation of classes and refactoring prior to creating the delete method
+
+commit 5f1adf806981330dd2594b294d0a3a64eae16b1d
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Fri Oct 1 16:40:39 2021 +0800
+
+    Refactor of code and classes and debugging
+
+commit 84933cabc11bc4c6bea5d1b2618b72afc391afbc
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Thu Sep 30 13:15:16 2021 +0800
+
+    Restructure the methods folder
+
+commit 5cb919477455d1980c30b35a1e41c4c07e1f4c35
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Thu Sep 30 13:13:40 2021 +0800
+
+    Creation of utilities folder and restructure of classes
+
+commit 281fa64ba2085e9e9bd6305ae28c354e300dd833
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Thu Sep 30 11:48:47 2021 +0800
+
+    Creation of booking class, re structure of titles file and main file
+
+commit 7277ab08bd7f2eeac63ce0c2666499b273c41194
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Tue Sep 28 13:24:10 2021 +0800
+
+    Continued to fabricate structure
+
+commit 23ba52aeb57b7be3d380cad959480b126075ac6d
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Tue Sep 28 11:38:20 2021 +0800
+
+    Starting to create the structure for my main.rb file
+
+commit 65bb8e830d6614925af62a211f35393e91b5fe8a
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Fri Sep 24 15:34:59 2021 +0800
+
+    Redifined and progressed with the development plan within the README
+
+commit 8cddb9f63c7446495caf39ea8cf7952668c27c82
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Fri Sep 24 12:19:55 2021 +0800
+
+    Installation and creation of Ruby Gems
+
+commit 19c4a8d2470df1f62a3dcbc6c5e7ac28d61eb483
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Fri Sep 24 10:16:41 2021 +0800
+
+    Creation of classes and methods structure
+
+commit 9e578ce9d168d29ade01a21b8c7e73d96d9afb83
+Author: Matlawton <s3887263@student.rmit.edu.au>
+Date:   Fri Sep 24 10:12:18 2021 +0800
+
+    Creation of controller.rb
