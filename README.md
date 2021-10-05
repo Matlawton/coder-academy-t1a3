@@ -195,7 +195,7 @@ Here are some features I intended to create for the MVP but was not able to fini
 - Develop a system to collate and confirm final payments amount and value.
 - Impliment more gems that interact with the user and create a positive user experience.
 
-## References & Took box
+## References & Tool box
 
 1. [diagrams.net](https://www.diagrams.net)
 
