@@ -18,6 +18,16 @@ My terminal app is an MVP booking system for users to interact with and potentia
 
 "Bone Death Skateboard Academy is a world renowned boot camp for turning beginner level skaters into industry leading professionals but they currently do not have a way of booking in new skaters to their campus online."
 
+The MVP for the Bone Death Skateboard Academy online booking system will:
+
+- Create new bookings for aspiring students.
+- Read and Load saved bookings for end users.
+- Control and manage error handling regarding age requirements.
+- Delete or destroy a booking and its contents.
+- Guide and direct the end user to a successful booking and positive experience.
+- Display a receipt to be confirmed by the end user.
+- Display custom titles and screens.
+
 ## - *Identify* - What is the problem and why is it important to develop a solution?
 
 Online access to a dedicated academic sports facility for everyone, from anywhere.
