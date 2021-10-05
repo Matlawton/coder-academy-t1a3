@@ -6,11 +6,11 @@ This is an assignment for Coder Academy - T1A3 - by Mathew Lawton.
 
 ![Terminal App Preview](docs/terminal.gif "A concatenation of screen shots of my Terminal App")
 
-## R4 - My GitHub Repository
+## **R4** - My GitHub Repository
 
 Click here to view my GitHub Repository - <https://github.com/Matlawton/coder-academy-t1a3>
 
-## R5 & R7 - Purpose, Scope & Error Handling
+## **R5** & **R7** - Purpose, Scope & Error Handling
 
 ## - *Description* - What is Bone Death Skateboard Academy?
 
@@ -35,7 +35,7 @@ Developing a solution to this problem is important because creating an online bo
 1. Concerned parents looking for more information.
 1. A user who is looking to view or delete an existing booking.
 
-## R5 & R7 - *Explain* - How will an end user interact with my terminal app and how will errors be handled?
+## **R5** & **R7** - *Explain* - How will an end user interact with my terminal app and how will errors be handled?
 
 **1** - Start program by executing main.rb in the terminal.
 
@@ -89,7 +89,7 @@ The user will be prompted to enter the booking reference number of the booking t
 
 **19** - If the end user at any time selects 'exit' from the menu then the program will be terminated.
 
-## R6 & R7 - Features & Error Handling Continued
+## **R6** & **R7** - Features & Error Handling Continued
 
 - main.rb is the main file that controls the program
 
@@ -106,7 +106,7 @@ If there is no booking currently created then specific title screens and message
 
 - utilities/titles.rb holds the specific titles for each screen or prompt such as the welcome screen, the camp stats screen, the message that is displayed when a user is not over the age of 16 and the exit screen to say good bye.
 
-## R8 - Control Flow Diagram
+## **R8** - Control Flow Diagram
 
 I started my control flow design process with pen and paper to get the basic concepts out of the way.
 
@@ -118,7 +118,7 @@ I used [diagrams.net](https://www.diagrams.net) to create the control flow diagr
 
 ![Mud Map 2](docs/t1a3_fc.png "Another photo of a hand drawn mud map")
 
-## R9 - Project Management - Trello
+## **R9** - Project Management - Trello
 
 I used [Trello](https://www.trello.com) to organise my design and development process and tasks at hand. I set priorities and deadlines for each task so I could track them along the way.
 To begin, I started with a Trello workspace and then I implimented a Kanban template into my workspace, from there I installed a power up extension within trello titled 'Card Priority", which allowed me to be able to set deadlines for each card or task. I used [Canva](https://www.canva.com) for the title images.
@@ -137,7 +137,7 @@ Here are some examples of how my Trello board was used at different sections thr
 
 ![Trello Overview three](docs/trello-04-10-21.png "Trello in the final stages of my terminal app")
 
-## R10 - Instructions - Installing and using the app
+## **R10** - Instructions - Installing and using the app
 
 To use my terminal app you will need to install ruby on your PC. [You can download ruby here.](https://www.ruby-lang.org/en/)
 
@@ -156,7 +156,7 @@ Finally when everything above is completed, you can run the app by typing the fo
 
 ruby main.rb
 
-## R17 - Testing
+## **R17** - Testing
 
 I tested and recorded my code outputs manually in the terminal at various stages of my development process as per the screen shots of my excell spreadsheet below.
 
@@ -172,6 +172,7 @@ I tested and recorded my code outputs manually in the terminal at various stages
 
 Here are some features I intended to create for the MVP but was not able to finish due to the time frame for submission. These are also future features that can be implimented for updates to future versions of the application.
 
+- **Utilise developer tools to execute my MVP terminal app.**
 - name_controller.rb is a class I wanted to create to control the validation of a name during the booking process, this file can be found in src/extras_archive/name_controller.rb
 - age_controller.rb is a class I wanted to create to control the validation of an age that is input by an end user during the booking process, this file can be found in src/extras_archive/age_controller.rb
 - Future locations to feature written information about campus locations.
